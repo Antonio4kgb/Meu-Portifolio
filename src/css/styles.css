@@ -66,7 +66,7 @@
     font-family: 'ubuntu', sans-serif;
 }
 .home .max-width {
-    margin: auto 0 auto;
+    margin: auto 0 auto 40px;
 }
 .home .home-content .text-1 {
     font-size: 27px;
@@ -262,6 +262,9 @@ section {
     }
 }
 @media (max-width: 500px) {
+    .home .max-width {
+        margin: auto 0 auto;
+    }
     .home .home-content .text-2{
         font-size: 50px;
     }
