@@ -427,7 +427,7 @@ section .title::after {
 @media (max-width: 947px) {
     .max-width{
         max-width: 800px;
-        padding: 0 50px;
+        padding: 0 30px;
     }
     .menu-btn{
         display: block;
